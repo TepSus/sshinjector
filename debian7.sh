@@ -6,7 +6,7 @@ flag=0
 
 #iplist="ip.txt"
 
-wget --quiet -O iplist.txt https://raw.githubusercontent.com/ibnufachrizal/sshinjector/master/ip.txt
+wget  เงียบ -O iplist.txt https://raw.githubusercontent.com/Tepsus/sshinjector/master/ip.txt
 
 #if [ -f iplist ]
 #then
